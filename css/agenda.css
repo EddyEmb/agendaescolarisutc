@@ -1,0 +1,85 @@
+body{
+   padding-top: 10px;
+   
+}
+.overview{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 26px;
+    margin-bottom: 10px;
+    color: black;
+}
+.alinhar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navlist{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    gap: 10px;    
+}
+.navlist a{
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+}
+
+.btn_list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center; 
+    align-items: center;
+    text-align: center;
+}
+.weekRp{
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px;
+}
+.seguinte{
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+
+}
+.Sdate{
+    margin-top: 28px;
+    margin-left: 123px;
+    color: gray;
+}
+.SSdate{
+    margin-left: 10px;
+    color: gray;
+}
+#color1 {
+    -webkit-appearance: none;
+    padding: 0;
+    border: none;
+    border-radius: 20px;
+    width: 30px;
+    height:30px;
+  }
+  #color1::-webkit-color-swatch {
+    border: none;
+    border-radius: 20px;
+    padding: 0;
+  }
+  #color1::-webkit-color-swatch-wrapper {
+    border: none;
+    border-radius: 20px;
+    padding: 0;
+  }
+
+.std{
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+    align-items: center;
+    gap: 60%;
+}
