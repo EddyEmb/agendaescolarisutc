@@ -1,2 +1,2 @@
 # agendaescolarisutc
-Agenda Escolar ISUTC
+Responsive Agenda Escolar ISUTC
